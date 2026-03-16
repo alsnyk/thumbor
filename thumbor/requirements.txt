@@ -8,7 +8,7 @@ shortuuid==1.0.8
 redis==3.5.3
 opencv-python-headless==4.8.1.78
 raven==6.10.0
-cairosvg==2.5.2
+cairosvg==2.9.0
 pycurl==7.45.2
 tc-aws==7.0.2
 tc-core==0.5
