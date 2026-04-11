@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.4
 
 RUN python3.9 -m pip install locustio==0.14.5
 
